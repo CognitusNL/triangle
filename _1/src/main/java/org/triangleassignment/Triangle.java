@@ -1,3 +1,5 @@
+package org.triangleassignment;
+
 public class Triangle {
 
     private int side1;
