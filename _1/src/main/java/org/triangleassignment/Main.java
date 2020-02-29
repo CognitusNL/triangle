@@ -1,7 +1,5 @@
 package org.triangleassignment;
 
-import org.triangleassignment.Triangle;
-
 import java.util.Scanner;
 
 public class Main {
